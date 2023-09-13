@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Afsoon-Ghazanfari/Afsoon-Ghazanfari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## I am a data science learner, a physicist, and a curious geek about Data Analysis
 
 - 🔭 I’m currently working on ...
