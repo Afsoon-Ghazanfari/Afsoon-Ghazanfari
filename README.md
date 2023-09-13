@@ -5,11 +5,6 @@
 - 🌱 I’m currently learning Power BI
 - 📫 How to reach me: afsoon.ghazanfari@gmail.com
 - 🤝 I’m looking to collaborate on Data Analysis or Data Science projects
-- 📄 Know about my experiences [linkedin/afsoon-ghazanfari](https://www.linkedin.com/in/afsoon-ghazanfari/)
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/afsoon-ghazanfari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsoon-ghazanfari" height="30" width="40" /></a>
