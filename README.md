@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Power BI
 - 📫 How to reach me: afsoon.ghazanfari@gmail.com
 - 🤝 I’m looking to collaborate on Data Analysis or Data Science projects
-- 📄 Know about my experiences [linkedin/afsoon-ghazanfari](https://www.linkedin.com/in/afsoon-ghazanfari/)
+- linkedin original icon Know about my experiences [linkedin/afsoon-ghazanfari](https://www.linkedin.com/in/afsoon-ghazanfari/)
