@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I am a data science learner, a physicist, and a curious geek about Data Analysis
+## I am a data science learner, a physicist, and a curious geek about Data Science & Data Analysis
 
-- 🔭 I’m currently working on "Salary Predictor project" in ReDI School
+- 🔭 I’m currently working on "Salary Predictor project" at ReDI School
 - 🌱 I’m currently learning Tableau
 - 📫 How to reach me: afsoon.ghazanfari@gmail.com
 - 🤝 I’m looking to collaborate on Data Analysis or Data Science projects
